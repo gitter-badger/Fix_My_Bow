@@ -1,0 +1,6 @@
+name: FixMyBow
+author: Crafting Mania
+api: [1.4.0]
+version: 1.0
+main: FixMyBow\Main
+description: This Plugin Fixes The Bows
